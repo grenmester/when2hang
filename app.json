@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "when2hang",
+    "slug": "when2hang",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
